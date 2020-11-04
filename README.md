@@ -1,9 +1,9 @@
 ﻿monte carlo simulation
  
-Before you run you need to install the following librarier:
+Before you run you need to install the following librarier: pandas, numpy , scikit-learn
 
-Open powershell and run the following commands
+To install these libraries, open powershell as admin and run the following commands:
  
  pip install pandas
  pip install numpy
- pip install sklearn
+ pip install scikit-learn
